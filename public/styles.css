@@ -1,0 +1,198 @@
+body{
+    background-color: #e8ded2;
+}
+
+.navigator{
+    background-color: #056676;
+    height: 150px;
+    font-family: 'Grandstander', cursive;
+}
+
+.head{
+    font-size: 70px;
+    color: #a3d2ca;
+    position: relative;
+    top: 40px;
+    left: 250px;
+}
+
+.DP{
+    position: fixed;
+    float: left;
+    height: 150px;
+    width: 100px;
+    border-radius: 100%;
+    margin: 0 50px;
+    border: 2px solid #5eaaa8;
+}
+
+.navitems{
+    font-size: 35px;
+    position: relative;
+    left: 450px;
+    padding: 0 5px;
+}
+
+.developer{
+    font-family: 'Grandstander', cursive;
+    color: #e8ded2;
+}
+
+footer{
+    height: 175px;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    color: #a3d2ca;
+    background-color: #056676;
+    font-family: 'Grandstander', cursive;
+}
+
+.foot{
+    margin-top: 500px;
+}
+
+.social-icon {
+    margin: 20px 10px;
+    color: #ffffff;
+}
+
+.cosmoDiv{
+    position: relative;
+    top: 100px;
+}
+
+p{
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Source Code Pro', monospace;
+    color: #056676;
+}
+
+.cosmoinner{
+    margin: 10px 20px;
+    padding: 20px;
+    height: 200px;
+}
+
+.cosmoItem-1{
+    position: relative;
+    height: 150px;
+    border: 5px solid;
+    float: left;
+}
+
+.cosmoItem-2{
+    position: relative;
+    height: 150px;
+    border: 5px solid;
+    float: right;
+}
+
+.cosmoItem-3{
+    position: relative;
+    height: 150px;
+    border: 5px solid;
+    float: left;
+}
+
+#image-carousel{
+    text-align: center;
+}
+
+
+.sector{
+    margin: 70px;
+    text-align: center;
+}
+
+.single-div{
+    background-color: #68b0ab;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.single-pic{
+    width: 250px;
+    height: 250px;
+    border: 5px solid #e5df88;
+    border-radius: 5%;
+    margin: 20px;
+}
+
+.menu{
+    height: 80px;
+    width: 100%;
+    background-color: #30475e;
+    text-align: center;
+    margin: 1px;
+}
+
+.inner-menu{
+    position: relative;
+    top: 20px;
+    margin: 5px;
+    padding: 35px;
+    text-align: center;
+    font-size: 30px;
+    color: #faf3dd;
+    font-family: 'Grandstander', cursive;
+}
+
+.makeup{
+    margin-top: 100px;
+    font-family: 'Grandstander', cursive;
+    color: #ed6663;
+    text-align: center;
+}
+
+.makeup-pic{
+    height: 350px;
+    margin: 25px;
+    border-radius: 5%;
+    border: 20px double #00416d;
+
+}
+
+.hair{
+    margin-top: 100px;
+    font-family: 'Grandstander', cursive;
+    color: #ed6663;
+    text-align: center;
+}
+
+.hairstyle{
+    font-size: 25px;
+    font-family: 'Grandstander', cursive;
+    margin-left: 20px;
+    color: #00416d;
+    background-color: #ed6663;
+    border: 5px solid #00416d;
+    border-radius: 5%;
+}
+
+.make-up-list{
+    margin: 20px 500px;
+}
+
+.contact{
+    margin-top: 150px;
+}
+
+.contact-icon{
+    margin: 0 0 0 100px;
+    font-size: 50px;
+}
+
+.about-pic{
+    position: relative;
+    float: left;
+    margin: 100px 0 0 150px;
+    height: 400px;
+    border: 2px solid;
+}
+
+.about{
+    margin: 200px 100px 0 100px;
+    width: 75%;
+}
