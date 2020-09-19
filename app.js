@@ -9,11 +9,11 @@ app.use(bodyParser.urlencoded({extended:true}));
 app.use(express.static("public"));
 
 app.get('/', (req,res)=>{
-  res.render("home")
+  res.render("ahome")
 });
 
-app.get('/about', (req,res)=>{
-  res.render('about')
+app.get('/faa-about', (req,res)=>{
+  res.render('faa-about')
 });
 
 app.get('/contact', (req,res)=> {
